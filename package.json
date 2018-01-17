@@ -1,7 +1,7 @@
 {
   "name": "grafikart-boilerplate",
   "version": "0.0.1",
-  "description": "",
+  "description": "Enep tested git with that project",
   "main": "",
   "scripts": {
     "updates": "npm-check-updates -u",
